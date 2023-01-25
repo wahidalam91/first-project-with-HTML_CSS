@@ -2,11 +2,12 @@
     margin: 10px;
     padding: auto;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: rgb(24, 24, 52)
 
 }
 
 h1{
-    color: #34495E ;
+    /* color: #34495E ; */
     text-align: center;
 }
 
