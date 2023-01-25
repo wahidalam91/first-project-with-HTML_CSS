@@ -33,3 +33,8 @@ div img{
     text-align: center;
 }
 
+#logo{
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
